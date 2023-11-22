@@ -17,7 +17,7 @@ mouse click, keyboard interface and menu driven programming- CO4
 5. Implement Cohen Sutherland polygon clipping method to clip the polygon with respect the 
 viewport and window. Use mouse click, keyboard interface - CO4
 
-6.Implement following 2D transformations on the object with respect to axis : – CO5
+6. Implement following 2D transformations on the object with respect to axis : – CO5
 i) Scaling ii) Rotation about arbitrary point iii) Reflection
 
 7. Generate fractal patterns using i) Bezier ii) Koch Curve - CO5
